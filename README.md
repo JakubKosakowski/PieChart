@@ -93,7 +93,7 @@ Before you go into below section, run XAMPP Control Panel and start MySQL and Ap
    DB_CONNECTION=mysql
    DB_HOST=127.0.0.1
    DB_PORT=3306
-   DB_DATABASE=blog
+   DB_DATABASE=pie_chart_db
    DB_USERNAME=root
    DB_PASSWORD=
    ```
