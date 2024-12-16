@@ -29,10 +29,10 @@
     <img src="https://laravel.com/img/logomark.min.svg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">PHP Recruitment Task</h3>
+<h3 align="center">PieChart Recruitment Task</h3>
 
   <p align="center">
-    Simple blog written in Laravel.
+    PieChart application written in Laravel.
     <br />
     <a href="https://github.com/JakubKosakowski/PHP-Recruitment-Task"><strong>Explore the docs »</strong></a>
     <br />
@@ -43,7 +43,8 @@
 ### Built With
 
 * [![Laravel][Laravel.com]][Laravel-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![ReactJS][ReactJS.com]][ReactJS-url]
+* [![Typescript][Typescript.com]][Typescript-url]
 * [![MySQL][MySQL.com]][MySQL-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -112,18 +113,6 @@ Before you go into below section, run XAMPP Control Panel and start MySQL and Ap
        php artisan serve
        ```
 
-### Generated login data
-Login: Jane.Doe@test.com\
-Password: password
-
-
-Login: John.Doe@test.com\
-Password: password
-
-
-Login: M.Kubrick@test.com\
-Password: password
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## License
@@ -136,7 +125,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Jakub Kosakowski  - Jakub.Kosakowski@protonmail.com
 
-Project Link: [https://github.com/JakubKosakowski/PHP-Recruitment-Task](https://github.com/JakubKosakowski/PHP-Recruitment-Task)
+Project Link: [https://github.com/JakubKosakowski/PieChart](https://github.com/JakubKosakowski/PieChart)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,7 +133,9 @@ Project Link: [https://github.com/JakubKosakowski/PHP-Recruitment-Task](https://
 [linkedin-url]: https://www.linkedin.com/in/jakub-kosakowski/
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [Laravel-url]: https://laravel.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[ReactJS.com]: https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge
+[ReactJS-url]: https://react.dev
+[Typescript.com]: https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge
+[Typescript-url]: https://www.typescriptlang.org
 [MySQL.com]: https://img.shields.io/badge/MySQL-0074A3?style=for-the-badge&logo=mysql&logoColor=white
 [MySQL-url]: https://www.mysql.com
