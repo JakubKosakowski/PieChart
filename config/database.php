@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Str;
 
-$DATABASE_URL=parse_url("mysql://p3kcadwd3zcqyv2w:lpgqx404f1p3tv2n@q3vtafztappqbpzn.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/ov9t1lv0a9v1q8am");
+$DATABASE_URL=parse_url("mysql://iap0gu114kv3kby2:dybcjvmjgeh5mjlr@q3vtafztappqbpzn.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/p6e64nu7n2geksen");
 
 return [
 
@@ -46,7 +46,7 @@ return [
 
         'mysql' => [
             'driver' => 'mysql',
-            'url' => "mysql://p3kcadwd3zcqyv2w:lpgqx404f1p3tv2n@q3vtafztappqbpzn.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/ov9t1lv0a9v1q8am",
+            'url' => "mysql://iap0gu114kv3kby2:dybcjvmjgeh5mjlr@q3vtafztappqbpzn.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/p6e64nu7n2geksen",
             'host' => $DATABASE_URL['host'],
             'port' => $DATABASE_URL['port'],
             'database' => ltrim($DATABASE_URL['path'], "/"),
