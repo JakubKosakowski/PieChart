@@ -46,7 +46,7 @@ return [
 
         'mysql' => [
             'driver' => 'mysql',
-            'url' => $DATABASE_URL,
+            'url' => "mysql://p3kcadwd3zcqyv2w:lpgqx404f1p3tv2n@q3vtafztappqbpzn.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/ov9t1lv0a9v1q8am",
             'host' => $DATABASE_URL['host'],
             'port' => $DATABASE_URL['port'],
             'database' => ltrim($DATABASE_URL['path'], "/"),
